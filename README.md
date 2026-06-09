@@ -7,7 +7,7 @@ Public distribution of Customer Setup Kits for Netsmartz M365 Copilot agents.
 | Agent | Release tag | Description |
 |---|---|---|
 | Legal Copilot | `legal-v1.0.0` | Contract templates, legal playbook, setup guide |
-| HR Copilot |  `hrcopilot-v1.0.0`  | Setup Guide, Draft/update HR policies, Gap Analyses, Q & A of HR Policies |
+| HR Copilot |  `hrcopilot-v1.1.0`  | Setup Guide, Draft/update HR policies, Gap Analyses, Q & A of HR Policies |
 | Sales Copilot | `salesandmarketing-V1.0.0` | Setup Guide, Sample Sales And Marketing Playbook, Sample templates |
 
 ## Download
